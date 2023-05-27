@@ -2,6 +2,8 @@ body{
   background-color: black;
   color: white;
   font-family: consolas;
+  align-items: center;
+  text-align: center;
 }#btn {
   padding: 5px 10px;
   font-size: 15px;
